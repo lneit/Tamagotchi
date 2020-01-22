@@ -2,10 +2,10 @@
 
 Implements basic requirements listed below:
 
-Capable of going to sleep on its own, losing health from hunger and pooping on its own without prompting
-Capable of being fed
-Capable of being put to bed
-Capable of aging from birth through to death
+- Capable of going to sleep on its own, losing health from hunger and pooping on its own without prompting
+- Capable of being fed
+- Capable of being put to bed
+- Capable of aging from birth through to death
 
 
 
